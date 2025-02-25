@@ -1,0 +1,12 @@
+﻿  CentralCache.cpp
+E:\code\test\Project6\Project6\common.h(160,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  PageCache.cpp
+E:\code\test\Project6\Project6\common.h(160,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  test.cpp
+E:\code\test\Project6\Project6\common.h(160,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  ThreadCache.cpp
+E:\code\test\Project6\Project6\common.h(160,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  正在生成代码...
+E:\code\test\Project6\Project6\common.h(150): warning C4715: “SizeClass::Index”: 不是所有的控件路径都返回值
+E:\code\test\Project6\Project6\common.h(150): warning C4715: “SizeClass::Index”: 不是所有的控件路径都返回值
+  Project6.vcxproj -> E:\code\test\Project6\x64\Debug\Project6.exe
